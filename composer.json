@@ -18,12 +18,12 @@
   "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/Valtas/Platform.git"
+            "url": "https://github.com/valtas/platform.git"
         }
     ],
   "require": {
     "php": ">=7.0",
-    "orchid/platform": "dev-master",
+    "vendor/platform": "dev-master",
     "orchid/settings": "^2.0",
     "orchid/log": "^1.0",
     "orchid/monitor": "^1.0",
