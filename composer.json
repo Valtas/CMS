@@ -20,7 +20,7 @@
             "type": "package",
             "package": {
                 "name": "orchid/platform",
-                "version": "master",
+                "version": "0.9.9",
                 "source": {
                     "url": "https://github.com/valtas/platform.git",
                     "type": "git",
@@ -31,7 +31,7 @@
     ],
   "require": {
     "php": ">=7.0",
-    "orchid/platform": "dev-master",
+    "orchid/platform": "0.9.9",
     "orchid/settings": "^2.0",
     "orchid/log": "^1.0",
     "orchid/monitor": "^1.0",
