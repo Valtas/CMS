@@ -15,15 +15,9 @@
       "email": "bliz48rus@gmail.com"
     }
   ],
-  "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/valtas/platform"
-        }
-    ],
   "require": {
     "php": ">=7.0",
-    "orchid/platform": "dev-master",
+    "orchid/platform": "^1.0",
     "orchid/settings": "^2.0",
     "orchid/log": "^1.0",
     "orchid/monitor": "^1.0",
