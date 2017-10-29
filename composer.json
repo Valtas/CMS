@@ -19,7 +19,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/valtas/platform"
-            }
         }
     ],
   "require": {
